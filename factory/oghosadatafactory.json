@@ -1,0 +1,17 @@
+{
+	"name": "oghosadatafactory",
+	"properties": {
+		"globalParameters": {
+			"GlobalParam": {
+				"type": "int",
+				"value": 2020
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b048c461-42da-4d56-bcb7-9c5fa20b5e7a",
+		"tenantId": "cd6683a6-aa85-46cf-aeea-92d4a1477009"
+	}
+}
